@@ -1,2 +1,4 @@
-print("Mam na imię...")  # tutaj wpisz swoje imię
-# i dodaj jeszcze jakiś ciekawy kod
+# prosty program
+name = 'Kasia'
+
+print("Mam na imię", name, "i zostanę programistką Pythona")
